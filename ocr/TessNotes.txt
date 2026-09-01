@@ -1,0 +1,2 @@
+/* rev-a2b81d-20260901 TessNotes.txt */
+build=v26.001.21780
